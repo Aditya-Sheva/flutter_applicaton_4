@@ -1,12 +1,13 @@
-﻿# flutter_applicaton_4
+flutter_applicaton_4
 
+Tampilan Aplikasi
 
-"img src = "flutter_application_1/img/output1.png"
-"img src = "flutter_application_1/img/output2.png"
+<img src="flutter_application_1/img/output1.png" width="300">
+<img src="flutter_application_1/img/output2.png" width="300">
 
-flutter_application_1 
-Nama Kelompok :
-Aditya Sheva Pratama (K3523004)
-Albert Indra Wiguna (K3523008)
-Bagus Satyo Nugroho (K3523022)
+---
 
+Nama Kelompok
+- Aditya Sheva Pratama (K3523004)
+- Albert Indra Wiguna (K3523008)
+- Bagus Satyo Nugroho (K3523022)
